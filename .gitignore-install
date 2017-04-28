@@ -2,6 +2,9 @@
 .volumes
 craft_latest.zip
 /craft/config/license.key
+/public/css
+/public/js
 /public/writable
 /node_modules
 /vendor
+yarn-error.log

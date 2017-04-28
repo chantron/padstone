@@ -5,7 +5,10 @@
 /craft/config/web.config
 /craft/plugins
 /craft/storage
-/public/writable
-craft_latest.zip
 /node_modules
+/public/css
+/public/js
+/public/writable
 /vendor
+craft_latest.zip
+yarn-error.log
